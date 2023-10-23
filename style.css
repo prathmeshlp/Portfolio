@@ -371,7 +371,7 @@ article .icon {
 .project-img {
   border-radius: 2rem;
   width: 90%;
-  height: 90%;
+  height: 260px;
 }
 
 .project-title {
@@ -418,6 +418,10 @@ article .icon {
 
 .contact-icon {
   cursor: default;
+}
+.whatapp-icon{
+  width: 40px;
+  height: 40px;
 }
 
 .email-icon {
